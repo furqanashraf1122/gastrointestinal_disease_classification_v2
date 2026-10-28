@@ -1,0 +1,6 @@
+dataset,run,accuracy,f1_score
+Kvasir,1,0.8833,0.882
+Kvasir,2,0.887,0.888
+Kvasir,3,0.892,0.892
+Kvasir,4,0.893,0.893
+Kvasir,5,0.894,0.895

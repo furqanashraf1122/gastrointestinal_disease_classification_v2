@@ -1,0 +1,5 @@
+dataset,metric,n_runs,mean,sample_sd,mean_percent,sample_sd_percentage_points
+Kvasir,accuracy,5,0.88986,0.004549505,88.986,0.454950547
+Kvasir,f1_score,5,0.89,0.005147815,89,0.514781507
+GERD,accuracy,5,0.845,0.006363961,84.5,0.636396103
+GERD,f1_score,5,0.85,0.004743416,85,0.474341649

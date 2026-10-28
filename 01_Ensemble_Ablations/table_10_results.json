@@ -1,0 +1,30 @@
+{
+  "metric_units": "percent",
+  "results": [
+    {
+      "Dataset": "Kvasir",
+      "Fusion strategy": "Feature averaging",
+      "Accuracy (%)": "89.0",
+      "F1-score (%)": "89.0"
+    },
+    {
+      "Dataset": "Kvasir",
+      "Fusion strategy": "Feature concatenation",
+      "Accuracy (%)": "88.5",
+      "F1-score (%)": "88.4"
+    },
+    {
+      "Dataset": "GERD",
+      "Fusion strategy": "Feature averaging",
+      "Accuracy (%)": "84.5",
+      "F1-score (%)": "85.0"
+    },
+    {
+      "Dataset": "GERD",
+      "Fusion strategy": "Feature concatenation",
+      "Accuracy (%)": "84.0",
+      "F1-score (%)": "84.3"
+    }
+  ],
+  "status": "Experiment summary metrics."
+}

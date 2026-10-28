@@ -1,0 +1,13 @@
+{
+  "gi_ensemble.py": "4449d7bc8a2023850f5efe4a74149bcb4468d74bcfeceb34cd64cd1e59cc00bd",
+  "README_methodology_alignment.md": "2c0331ae3f8628c633ee7fbe90e3f62218227bfe29c262cde0c3c0f576abd75e",
+  "requirements.txt": "abc2c2ac5a9430f943d81cdfdf690f3fbfc74e2ebc1408b67bb738ab93ab5735",
+  "config.json": "3fd43e8907f67a8382c33a92d709365022ee783847f87dc72233cebff7b358e5",
+  "run_repeated_experiments.py": "7eb7c792efe887ea99d3efc5b325200ec0818e180c192395a84564d406332abe",
+  "REVIEWER_RESOLUTION.md": "84c213b8e994a2c95fc9572bfde476e64133d905ce2228deb791a053a0e39f2b",
+  "test_smoke.py": "bf60f116e51c7ee8bff35d83f59f5ab0b623dd442a755cf29289f13d7309516d",
+  "test_revision.py": "0adea14288d1e1b0783bc8fbc386ef81c71721721f7081a30f6aa2adf8ba6f3e",
+  "VALIDATION.txt": "9f029ce15b759485228cb605ef9d5358b36c67ae3f8e66c26e69b86040dfbf7e",
+  "manifests/Kvasir_fixed_split.csv": "bd968934223803c7ff8ae95d6bbee137350e87221a95c9e4b50f967cba4fb8c2",
+  "supplied_evidence/single_run_original.zip": "4a8da51d11c0af1926feff1c4fa6f49d7437358a6c6df106f960b530bc1045f3"
+}

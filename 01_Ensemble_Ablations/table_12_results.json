@@ -1,0 +1,54 @@
+{
+  "metric_units": "percent",
+  "results": [
+    {
+      "Stage": "A0",
+      "Configuration": "Complete proposed pipeline",
+      "Kvasir  accuracy (%)": "88.99",
+      "Kvasir F1 (%)": "89.00",
+      "GERD  accuracy (%)": "84.5",
+      "GERD F1 (%)": "85.00"
+    },
+    {
+      "Stage": "A1",
+      "Configuration": "A0 without training-data augmentation",
+      "Kvasir  accuracy (%)": "84.0",
+      "Kvasir F1 (%)": "83.8",
+      "GERD  accuracy (%)": "79.1",
+      "GERD F1 (%)": "79.6"
+    },
+    {
+      "Stage": "A2",
+      "Configuration": "A0 with equal ensemble weights instead of the predefined shared ensemble weights",
+      "Kvasir  accuracy (%)": "86.1",
+      "Kvasir F1 (%)": "85.9",
+      "GERD  accuracy (%)": "81.3",
+      "GERD F1 (%)": "81.9"
+    },
+    {
+      "Stage": "A3",
+      "Configuration": "A0 without branch-specific feature selection",
+      "Kvasir  accuracy (%)": "87.0",
+      "Kvasir F1 (%)": "86.8",
+      "GERD  accuracy (%)": "82.4",
+      "GERD F1 (%)": "82.9"
+    },
+    {
+      "Stage": "A4",
+      "Configuration": "A0 with variance-based feature selection instead of ANOVA-based feature selection",
+      "Kvasir  accuracy (%)": "88.2",
+      "Kvasir F1 (%)": "88.1",
+      "GERD  accuracy (%)": "83.6",
+      "GERD F1 (%)": "84.1"
+    },
+    {
+      "Stage": "A5",
+      "Configuration": "A0 without learned projections",
+      "Kvasir  accuracy (%)": "88.0",
+      "Kvasir F1 (%)": "88.0",
+      "GERD  accuracy (%)": "83.5",
+      "GERD F1 (%)": "84.0"
+    }
+  ],
+  "status": "Experiment summary metrics."
+}

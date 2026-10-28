@@ -1,0 +1,105 @@
+{
+  "run_identifier": "Table 7 run order; random seed identities are not specified in the table",
+  "metric_units": "fractions; percentage summary fields explicitly named",
+  "standard_deviation": "sample SD (ddof=1) recalculated from the displayed run values",
+  "per_seed_results": [
+    {
+      "dataset": "Kvasir",
+      "run": 1,
+      "accuracy": 0.8833,
+      "f1_score": 0.882
+    },
+    {
+      "dataset": "Kvasir",
+      "run": 2,
+      "accuracy": 0.887,
+      "f1_score": 0.888
+    },
+    {
+      "dataset": "Kvasir",
+      "run": 3,
+      "accuracy": 0.892,
+      "f1_score": 0.892
+    },
+    {
+      "dataset": "Kvasir",
+      "run": 4,
+      "accuracy": 0.893,
+      "f1_score": 0.893
+    },
+    {
+      "dataset": "Kvasir",
+      "run": 5,
+      "accuracy": 0.894,
+      "f1_score": 0.895
+    },
+    {
+      "dataset": "GERD",
+      "run": 1,
+      "accuracy": 0.836,
+      "f1_score": 0.845
+    },
+    {
+      "dataset": "GERD",
+      "run": 2,
+      "accuracy": 0.841,
+      "f1_score": 0.847
+    },
+    {
+      "dataset": "GERD",
+      "run": 3,
+      "accuracy": 0.847,
+      "f1_score": 0.848
+    },
+    {
+      "dataset": "GERD",
+      "run": 4,
+      "accuracy": 0.85,
+      "f1_score": 0.8540000000000001
+    },
+    {
+      "dataset": "GERD",
+      "run": 5,
+      "accuracy": 0.851,
+      "f1_score": 0.856
+    }
+  ],
+  "summary": [
+    {
+      "dataset": "Kvasir",
+      "metric": "accuracy",
+      "n_runs": 5,
+      "mean": 0.8898600000000001,
+      "sample_sd": 0.004549505467630534,
+      "mean_percent": 88.986,
+      "sample_sd_percentage_points": 0.45495054676305335
+    },
+    {
+      "dataset": "Kvasir",
+      "metric": "f1_score",
+      "n_runs": 5,
+      "mean": 0.89,
+      "sample_sd": 0.0051478150704934895,
+      "mean_percent": 89.0,
+      "sample_sd_percentage_points": 0.514781507049349
+    },
+    {
+      "dataset": "GERD",
+      "metric": "accuracy",
+      "n_runs": 5,
+      "mean": 0.845,
+      "sample_sd": 0.006363961030678945,
+      "mean_percent": 84.5,
+      "sample_sd_percentage_points": 0.6363961030678945
+    },
+    {
+      "dataset": "GERD",
+      "metric": "f1_score",
+      "n_runs": 5,
+      "mean": 0.85,
+      "sample_sd": 0.004743416490252562,
+      "mean_percent": 85.0,
+      "sample_sd_percentage_points": 0.47434164902525616
+    }
+  ]
+}

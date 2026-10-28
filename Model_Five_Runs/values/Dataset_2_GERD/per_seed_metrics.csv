@@ -1,0 +1,6 @@
+dataset,run,accuracy,f1_score
+GERD,1,0.836,0.845
+GERD,2,0.841,0.847
+GERD,3,0.847,0.848
+GERD,4,0.85,0.854
+GERD,5,0.851,0.856
